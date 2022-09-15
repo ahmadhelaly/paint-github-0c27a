@@ -2,6 +2,6 @@
 {
   "name": "SIKit"
   "version": "0.1
-  "summary": "Simple interface  controlit
+  "summary": "Simple interface  controli
   "license": "MIT
   "auth
