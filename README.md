@@ -91,18 +91,4 @@ with tempfile.TemporaryDirectory() as tmpdir:
     )
 
     print("\n> Compilation succeeded !")
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
+
